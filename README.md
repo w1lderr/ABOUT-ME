@@ -61,12 +61,12 @@ Currently based in the United Station Of Amerima, I am a Junior Android Develope
 
 ### IDEs & Editors
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm/)
+[![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
-[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-[![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
 
 ---
 
