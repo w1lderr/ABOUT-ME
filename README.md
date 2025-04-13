@@ -81,3 +81,11 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 ![w1lderr's Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![w1lderr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=w1lderr&theme=tokyonight&hide_border=true)
 ![w1lderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+## The snake is for you ❤️
+
+###
+
+<img src="https://raw.githubusercontent.com/r4nol/r4nol/output/snake.svg" alt="Snake animation" />
+
+###
