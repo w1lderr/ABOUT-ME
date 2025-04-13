@@ -1,44 +1,42 @@
-<h2 align="center">Hello, I'm Android and KMP Developer</h2>
+## Hi there! 👋
 
-### Programming languages
+I'm Zakhar, a Junior Android Developer with a passion for Kotlin Multiplatform Mobile (KMM). I'm excited about creating innovative mobile applications that make life easier and more enjoyable!
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+## About Me
 
-### Stack
+I am currently based in the United Station Of Amerima. I am always eager to learn and grow in the field of software development, particularly in Android and cross-platform solutions using Kotlin. My goal is to contribute to meaningful projects and enhance my skills along the way.
 
-<div align="left">
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="30" alt="ktor logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-</div>
+## Skills & Technologies
+
+kotlin,java,docker,git,flask,html,css,js,swift,react,nodejs,mysql,sqlite,ktor,androidstudio,bootstrap,raspberrypi,arduino,angular,django,fastapi,kali,debian,linux,bash,cpp,cs,clion,pycharm,py,ts,cmake,firebase,webstorm,visualstudio,vscode,vue,dotnet,figma,gradle,mongodb,heroku,postgres,postman,windows,vercel,spring,tensorflow,redhat,tailwind,redis,kafka,jquery,netlify
+
+## Top Projects
+
+- [StreamScouterAndroidApp](https://github.com/w1lderr/StreamScouterAndroidApp): A lightweight recommendation app for matching Netflix titles to user queries using multilingual sentence transformers and semantic similarity. ⭐ 0 Stars | Language: Kotlin
+- [ISaver](https://github.com/w1lderr/ISaver): A tool for saving and organizing your data effectively. ⭐ 0 Stars | Language: Python
+- [SaveMySoulRestAPI_2.0](https://github.com/w1lderr/SaveMySoulRestAPI_2.0): Backend API for the Save My Soul application. ⭐ 0 Stars | Language: Java
+- [StreamScouter](https://github.com/w1lderr/StreamScouter): A lightweight recommendation tool for matching Netflix titles to user queries. ⭐ 0 Stars | Language: Jupyter Notebook
+- [SaveMySoulApp-2.0](https://github.com/w1lderr/SaveMySoulApp-2.0): Save My Soul App 2.0. ⭐ 0 Stars | Language: Kotlin
+
+## GitHub Stats
+
+🌟 Public Repositories: 9
+👥 Followers: 3
+🔗 Following: 5
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Updated README.md in [ABOUT-ME](https://github.com/w1lderr/ABOUT-ME)
+- Created repository [ABOUT-ME](https://github.com/w1lderr/ABOUT-ME)
+- Pushed changes to [StreamScouterAndroidApp](https://github.com/w1lderr/StreamScouterAndroidApp)
+- Forked [milksense](https://github.com/milksense/milksense) repository
+- Created new branch in [ISaver](https://github.com/w1lderr/ISaver)
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/zakhar-melnyk-8731a7345/"}
