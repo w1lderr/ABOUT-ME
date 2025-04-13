@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Zakhar and I'm a Android and KMP Developer, from Ukraine</h2>
+<h2 align="center">Hello, I'm a Android and KMP Developer</h2>
 
 ### Programming languages
 
