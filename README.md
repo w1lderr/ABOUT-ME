@@ -70,8 +70,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/webstorm/000000" height="30" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
