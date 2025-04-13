@@ -2,7 +2,7 @@
 
 Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and Web development. My journey in tech is driven by a deep curiosity and a desire to learn and grow in the field. I thrive on collaboration and enjoy working on innovative projects that challenge my skills.
 
-### Programming Languages
+## Programming Languages
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -16,7 +16,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 
 
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
@@ -32,7 +32,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 
 
 
-### Databases & Cloud
+## Databases & Cloud
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
@@ -45,7 +45,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 
 
 
-### Tools & DevOps
+## Tools & DevOps
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
@@ -55,7 +55,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 
 
 
-### IDEs & Editors
+## IDEs & Editors
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
@@ -66,7 +66,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 
 
 
-### Other Tech
+## Other Tech
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
