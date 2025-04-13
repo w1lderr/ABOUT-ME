@@ -30,7 +30,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 
----
+
 
 ### Databases & Cloud
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
@@ -43,7 +43,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 
----
+
 
 ### Tools & DevOps
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -53,7 +53,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
 
----
+
 
 ### IDEs & Editors
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
@@ -64,7 +64,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
 
----
+
 
 ### Other Tech
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
