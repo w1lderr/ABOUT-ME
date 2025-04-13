@@ -6,34 +6,82 @@ I'm Zakhar, a passionate Junior Android Developer with a knack for Kotlin Multip
 
 Currently based in the United Station Of Amerima, I am a Junior Android Developer specializing in Kotlin and KMP development. My journey in tech is driven by a deep curiosity and a desire to learn and grow in the field. I thrive on collaboration and enjoy working on innovative projects that challenge my skills.
 
-## Skills & Technologies
+### Programming Languages
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-kotlin,java,html,css,django,nodejs,react,git,docker,postgres,mongodb,aws,fastapi,bootstrap,tailwind,vue,sqlite,androidstudio,angular,debian,arduino,cpp,cs,bash,cmake,dotnet,figma,firebase,webstorm,vscode,visualstudio,netlify,vercel,spring,redis,raspberrypi,py,pycharm,idea,ktor,jquery,js,ts,clion,gradle,heroku,flask,kafka,postman,linux,kali,tensorflow
+---
 
-## Top Projects
+### Frameworks & Libraries
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io/)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 
-- [StreamScouterAndroidApp](https://github.com/w1lderr/StreamScouterAndroidApp): A lightweight recommendation app for matching Netflix titles to user queries using multilingual sentence transformers and semantic similarity. ⭐️ 0 | Language: Kotlin | Issues: 0 
-- [ISaver](https://github.com/w1lderr/ISaver): A simple tool for saving files efficiently. ⭐️ 0 | Language: Python | Issues: 0 
-- [SaveMySoulRestAPI_2.0](https://github.com/w1lderr/SaveMySoulRestAPI_2.0): API for the Save My Soul application. ⭐️ 0 | Language: Java | Issues: 0 
-- [SaveMySoulBot](https://github.com/w1lderr/SaveMySoulBot): A Telegram bot designed to assist users in various tasks. ⭐️ 0 | Language: Python | Issues: 0 
-- [DataShield](https://github.com/w1lderr/DataShield): Encrypt & Decrypt files in Telegram easily. ⭐️ 1 | Language: Python | Issues: 0
+---
+
+### Databases & Cloud
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+
+---
+
+### Tools & DevOps
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
+
+---
+
+### IDEs & Editors
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+
+---
+
+### Other Tech
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
+[![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+
 
 ## GitHub Stats
 
 Public Repositories: 9 | Followers: 3 | Following: 5 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Updated README.md in [ABOUT-ME](https://github.com/w1lderr/ABOUT-ME) on April 13, 2025.
-- Pushed code to [StreamScouterAndroidApp](https://github.com/w1lderr/StreamScouterAndroidApp) on April 3, 2025.
-- Forked [milksense](https://github.com/milksense/milksense) on April 13, 2025.
-- Created a new repo [ABOUT-ME](https://github.com/w1lderr/ABOUT-ME) on April 13, 2025.
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts published. Stay tuned for future updates!
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/zakhar-melnyk-8731a7345/"}
