@@ -83,3 +83,7 @@ Currently based in the United Station Of Amerima, I am a Junior Android Develope
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w1lderr&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w1lderr&theme=dark" alt="GitHub Streak" />
+</p>
