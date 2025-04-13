@@ -29,6 +29,9 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+[![Jetpack Compose](https://skillicons.dev/icons?i=android)](https://developer.android.com/jetpack/compose)
+[![Compose Multiplatform](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/docs/multiplatform.html)
+[![Kotlin Multiplatform](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/docs/multiplatform.html)
 
 
 
