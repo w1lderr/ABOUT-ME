@@ -82,6 +82,4 @@ Currently based in the United Station Of Amerima, I am a Junior Android Develope
 
 
 ## GitHub Stats
-
-Public Repositories: 9 | Followers: 3 | Following: 5 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&show_icons=true&theme=radical)
