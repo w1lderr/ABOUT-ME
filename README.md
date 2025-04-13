@@ -14,7 +14,7 @@ Hi there!👋 I am a Junior Android Developer specializing in Android, KMP and W
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
----
+
 
 ### Frameworks & Libraries
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
