@@ -51,9 +51,6 @@ Hi there!👋 My name's Zakhar. I am a Junior Android Developer specializing in 
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
 [![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-
-
 
 ## IDEs & Editors
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
