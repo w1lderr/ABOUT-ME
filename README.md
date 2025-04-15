@@ -60,8 +60,8 @@ Hi there!👋 My name's Zakhar. I am a Junior Android Developer specializing in 
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
 
 ## GitHub Stats
-![w1lderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![w1lderr's Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![w1lderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## The snake is for you ❤️
 <img src="https://raw.githubusercontent.com/r4nol/r4nol/output/snake.svg" alt="Snake animation" />
