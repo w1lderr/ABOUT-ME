@@ -20,7 +20,6 @@ Hi there!👋 My name's Zakhar. I am a Junior Android Developer specializing in 
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
