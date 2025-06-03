@@ -11,9 +11,6 @@ Hi there!👋 My name's Zakhar. I am a Junior Android Developer specializing in 
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TypeScript](https://skillsicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-
-
 
 ## Stack
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
