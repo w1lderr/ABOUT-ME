@@ -42,10 +42,3 @@ Hi there!👋 My name's Zakhar. I am a Junior Android Developer specializing in 
 [![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-
-## GitHub Stats
-![w1lderr's Stats](https://github-readme-stats.vercel.app/api?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![w1lderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w1lderr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-## This snake is for you ❤️
-<img src="https://raw.githubusercontent.com/r4nol/r4nol/output/snake.svg" alt="Snake animation" />
