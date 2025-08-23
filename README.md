@@ -4,7 +4,7 @@ Hi there!👋 My name's Zakhar. I am a Android,  Developer specializing in Andro
 
 ## Programming Languages
 
-[Kotlin](https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg)
+[![Kotlin](https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg)](https://skillicons.dev)
 
 ## Stack
 
